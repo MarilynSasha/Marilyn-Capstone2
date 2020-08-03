@@ -13,6 +13,9 @@ Created new dataframe for just one neighborhood in Mexico City - Xochimilco
 Goal: 
 
 
+Tools used:
+Python - Pandas 
+Tableau 
 
 Resources: 
 Info on Xochimilco - https://en.wikipedia.org/wiki/Xochimilco
