@@ -24,3 +24,5 @@ Resources:
 Info on Xochimilco - https://en.wikipedia.org/wiki/Xochimilco
 
 Example of AirB&B analysis : https://rstudio-pubs-static.s3.amazonaws.com/365075_ec9ebe4da4cc465ba9beaef25cda6bad.html
+
+Exploring Xochimilco - https://www.nomadicdays.org/7-awesome-things-the-neighborhood-xochimilco-mexico-city
